@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 5
+implicitly_wait: 3
+login: Marina
+password: 7ba66c645e
+title: title 100
+description: description 100
+content: content 100
